@@ -1,4 +1,5 @@
 # $\color{#5865F2}{\textsf{Discord}}$ `cat2d2`
+#### I have a bagillion friend requests and message requests that I will never look through so spam pinging me is probably more effective. (Make sure you say you wanna hire me though, otherwise I will search up how to ban Discord users)
 Proest coder!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&pause=1000&color=555555BE&background=ECEFFF00&multiline=true&width=1000&height=100&lines=My+creativity+is+limited+in+just+an+md+file.+Join+my+Discord+server+to+hire+me!)](https://discord.gg/m4DefhCemY)
