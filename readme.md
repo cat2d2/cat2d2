@@ -1,4 +1,4 @@
-# $\color{#5865F2}{\textsf{Discord}}$ `cat2d2`
+# $\color{#5865F2}{\textsf{Discord}}$ `kit2d2`
 #### I have a bagillion friend requests and message requests that I will never look through so spam pinging me is probably more effective. (Make sure you say you wanna hire me though, otherwise I will search up how to ban Discord users)
 Proest coder!
 
