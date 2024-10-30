@@ -7,7 +7,7 @@ Proest coder!
 ---
 
 # $\color{lightgreen}{\textsf{Donations}}$ 💸
-Donations are very useful. If you have any money you would like to donate, no matter how small, $\color{#0079C1}{\textsf{PayPal}}$: **azelifyofficial@gmail.com**. Everything is welcome!
+Donations are very useful. If you have any money you would like to donate, no matter how small, $\color{#0079C1}{\textsf{PayPal}}$: **azelifyofficial@gmail.com**. Everything is welcome! Click [here](https://t.co/QlxalFfUeP) to donate to my company. (Most payments are not done through there though)
 
 ### Work number:
 `+1 201-468-0193`  
