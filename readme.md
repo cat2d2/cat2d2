@@ -17,13 +17,13 @@ Work email: `cat@fatherless.dad`. For support, contact `support@fatherless.dad`
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cat2d2&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cat2d2&show_icons=true&theme=dracula)
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=cat2d2&theme=highcontrast)
+![GitHub Streak](https://streak-stats.demolab.com?user=cat2d2&theme=dracula)
 
 ### 📚 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cat2d2&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cat2d2&layout=compact&theme=dracula)
 
 ---
 
